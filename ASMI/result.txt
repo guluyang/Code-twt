@@ -1,0 +1,26 @@
+# musk1: lr=0.001, agg_out_len=512, epochs=200, acc: $92.40_{\pm1.02}$ | f1: $88.73_{\pm4.08}$
+# musk2: lr=0.0005, agg_out_len=512, epochs=200, acc: $91.33_{\pm2.09}$ | f1: $85.39$_{\pm1.50}
+# elephant: lr=0.0005, agg_out_len=512, epochs=200, acc: $91.30_{\pm1.33}$ | f1: $91.27$_{\pm1.38}
+# fox: lr=0.0005, agg_out_len=512, epochs=200, acc: $69.20_{\pm1.91}$ | f1: $72.14_{\pm2.20}$
+# tiger : lr=0.0005, agg_out_len=512, epochs=200, acc: $85.40_{\pm1.77}$ | f1: $85.27$_{\pm2.56}
+
+# News.aa: lr=0.0005, epochs=200, acc: $88.80_{\pm1.17}$ | f1: $87.13$_{\pm1.37}
+# News.cg: lr=0.0005, epochs=200, acc: $74.80_{\pm1.47}$ | f1: $72.25_{\pm0.85}$
+# News.co: lr=0.0005, epochs=200, acc: $75.20_{\pm4.07}$ | f1: $73.07_{\pm5.66}$
+# News.csi: lr=0.0005, epochs=200, acc: $75.40_{\pm1.02}$ | f1: $70.84_{\pm2.32}$
+# News.csm: lr=0.0005, epochs=200, acc: $82.20_{\pm0.40}$ | f1: $80.08_{\pm1.88}$
+# News.cw: lr=0.0005, epochs=200, acc: $87.60_{\pm2.15}$ | f1: $85.04_{\pm2.30}$
+# News.mf: lr=0.0005, epochs=200, acc: $77.40_{\pm2.33}$ | f1: $75.1_{\pm2.1}$
+# News.ra: lr=0.0005, epochs=200, acc: $80.60_{\pm3.38}$ | f1: $79.85_{\pm2.44}$
+# News.rm: lr=0.0005, epochs=200, acc: $91.20_{\pm1.17}$ | f1: $90.73_{\pm0.59}$
+# News.rsb: lr=0.0005, epochs=200, acc: $89.00_{\pm0.63}$ | f1: $86.83_{\pm2.07}$
+# News.rsh: lr=0.0005, epochs=200, acc: $93.40_{\pm0.49}$ | f1: $92.76_{\pm0.36}$
+# News.sc: lr=0.0005, epochs=200, acc: $88.6_{\pm0.8}$ | f1: $87.5_{\pm1.0}$
+# News.se: lr=0.0005, epochs=200, acc: $65.00_{\pm3.03}$ | f1: $57.29_{\pm7.76}$
+# News.sm: lr=0.0005, epochs=200, acc: $88.40_{\pm1.62}$ | f1: $85.92_{\pm2.43}$
+# News.src: lr=0.0005, epochs=200, acc: $83.20_{\pm2.93}$ | f1: $81.77_{\pm3.26}$
+# News.ss: lr=0.0005, epochs=200, acc: $88.00_{\pm1.41}$ | f1: $85.61_{\pm1.93}$
+# News.tpg: lr=0.0005, epochs=200, acc: $83.60_{\pm2.24}$ | f1: $83.04_{\pm2.10}$
+# News.tpmd: lr=0.0005, epochs=200, acc: $89.60_{\pm1.74}$ | f1: $87.58_{\pm1.08}$
+# News.tpmc: lr=0.0005, epochs=200, acc: $86.40_{\pm2.06}$ | f1: $86.67_{\pm1.75}$
+# News.trm: lr=0.0005, epochs=200, acc: $83.20_{\pm2.48}$ | f1: $81.54_{\pm3.79}$
